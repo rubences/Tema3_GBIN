@@ -34,6 +34,3 @@ def main():
     print("Este es Factorial Recursivo " + str(factorial.factorial_recursivo()))
     print("Este es Factorial Iterativo " + str(factorial.factorial_iterativo()))
 
-
-if __name__ == "__main__":
-    main()

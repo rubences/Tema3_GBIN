@@ -57,5 +57,3 @@ def main():
     print("Esta es la secuencia de Fibonacci de forma iterativa: " + str(fibonacci.fibonacci_iterativo()))
 
 
-if __name__ == "__main__":
-    main()
